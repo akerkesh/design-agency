@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+header{
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fclusterworldexpo.com%2Ftop-programming-languages-to-learn-in-2020%2F&psig=AOvVaw3uIemFk6W1zn8imTL24RdH&ust=1613789775535000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMj_zsf59O4CFQAAAAAdAAAAABAk");
+    background-size:cover ;
+    color: white;
+    padding: 50px 0;
+}
+
+.conteiner{
+    width: 600px;
+    margin: auto;
+
+}
